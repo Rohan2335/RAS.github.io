@@ -1,0 +1,42 @@
+p {
+    color: black;
+    font-size: 40px;
+    font-family: "Baskervville";
+
+}
+
+@font-face {
+    font-family: "engr";
+    src: url(C:\Users\thund\OneDrive\Desktop\raas\engr.ttf);
+}
+
+body {
+    background-color: #f2f2f2;
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 80px;
+
+}
+
+h1 {
+    color: blue;
+    font-size: 60px;
+    font-family: "engr";
+}
+
+b {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.baskervville-regular {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.baskervville-regular-italic {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: italic;
+}
